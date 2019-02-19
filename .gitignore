@@ -1,1 +1,5 @@
 *.pro.user
+/components/debug
+/components/obj
+/components/release
+/components/Win32
